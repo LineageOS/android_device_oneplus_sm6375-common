@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e835e49e_a6014ca6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 18745
+      },
+      "writtenOn": "2025-02-24T01:06:04Z",
+      "side": 1,
+      "message": "Works fine on gunnar. Needs testing on other sm6375 devices.",
+      "revId": "05f7c672d4dea0426c2e68d23efb3bc6b0a7bca3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
