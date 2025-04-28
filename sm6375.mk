@@ -115,6 +115,8 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.display.composer-service.xml \
     vendor.qti.hardware.memtrack-service
 
+$(call soong_config_set,qtidisplay,gralloc_handle_has_reserved_size,true)
+
 # Doze
 PRODUCT_PACKAGES += \
     OplusDoze
