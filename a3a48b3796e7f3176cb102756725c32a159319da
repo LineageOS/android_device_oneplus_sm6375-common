@@ -1,4 +1,22 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0b81efa1_92c84237",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36327
+      },
+      "writtenOn": "2025-12-07T05:22:35Z",
+      "side": 1,
+      "message": "Download link send",
+      "revId": "a3a48b3796e7f3176cb102756725c32a159319da",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ],
   "submitRequirementResults": []
 }
