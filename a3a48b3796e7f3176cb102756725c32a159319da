@@ -16,6 +16,23 @@
       "message": "Download link send",
       "revId": "a3a48b3796e7f3176cb102756725c32a159319da",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "583af8d6_414ade1b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36327
+      },
+      "writtenOn": "2025-12-08T13:40:46Z",
+      "side": 1,
+      "message": "Download",
+      "revId": "a3a48b3796e7f3176cb102756725c32a159319da",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
