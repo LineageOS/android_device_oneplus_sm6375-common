@@ -16,6 +16,24 @@
       "message": "There\u0027s already a set of working blobs.",
       "revId": "7f3e58c5fbb147a3585b05f6c83e508d367099af",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b9bcb75f_f1d80904",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-09-02T17:52:37Z",
+      "side": 1,
+      "message": "Which you already have in the chain, so just drop this change.",
+      "parentUuid": "c8922581_0eaf6f7b",
+      "revId": "7f3e58c5fbb147a3585b05f6c83e508d367099af",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
