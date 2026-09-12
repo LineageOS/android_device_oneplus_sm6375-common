@@ -16,6 +16,23 @@
       "message": "This doesn\u0027t work on dirty flash fyi",
       "revId": "f9a7cd5938bebc896317d8622c40937619d10039",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f5fbdada_e7facbf4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2026-09-12T06:19:08Z",
+      "side": 1,
+      "message": "I have 2 devices in the same moto family, bt audio fails on one with it enabled, the other fails without. So make sure to test all devices that share this repo",
+      "revId": "f9a7cd5938bebc896317d8622c40937619d10039",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
