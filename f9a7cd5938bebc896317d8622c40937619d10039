@@ -33,6 +33,24 @@
       "message": "I have 2 devices in the same moto family, bt audio fails on one with it enabled, the other fails without. So make sure to test all devices that share this repo",
       "revId": "f9a7cd5938bebc896317d8622c40937619d10039",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a7c77515_e06a73da",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-09-12T07:22:34Z",
+      "side": 1,
+      "message": "it should work unless one manually ran setprop afaict.",
+      "parentUuid": "570f6fdb_7441bdf8",
+      "revId": "f9a7cd5938bebc896317d8622c40937619d10039",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
